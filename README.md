@@ -1,5 +1,6 @@
 # Assessment of Virtual Reality and Metaverse Applications in Higher Education.
 IEEE Latin America Transactions, submission ID: 10156 
+
 Authors:
 * Jose Joskowicz (josej@fing.edu.uy)
 * Fabricio Gonzalez (fabricio.g.antuna@gmail.com)
