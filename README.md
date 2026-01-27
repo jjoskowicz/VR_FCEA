@@ -2,7 +2,7 @@
 IEEE Latin America Transactions, submission ID: 10156 
 
 
-![Texto alternativo](/Graphic_Abstract_v5_HQ.png)
+![Graphic Abstract](/Graphic_Abstract_v5_HQ.png)
 
 
 Authors:
