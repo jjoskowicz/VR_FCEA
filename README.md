@@ -1,4 +1,4 @@
-# A Assessment of Virtual Reality and Metaverse Applications in Higher Education.
+# Assessment of Virtual Reality and Metaverse Applications in Higher Education.
 Manuscript ID: IEEE LATAM Submission ID: 10156 
 Authors:
 * Jose Joskowicz (josej@fing.edu.uy)
