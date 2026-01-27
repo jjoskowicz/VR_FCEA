@@ -1,4 +1,4 @@
-# Assessment of Virtual Reality and Metaverse Applications in Higher Education.
+# Assessment of Virtual Reality and Metaverse Applications in Higher Education
 IEEE Latin America Transactions, submission ID: 10156 
 
 
